@@ -1,4 +1,1 @@
-from builtins import print
-
-print("Hello, world!")
-print("Пришло время проверить третий коммит!")
+print("Тестирую вывод информации без импорта модулей")
